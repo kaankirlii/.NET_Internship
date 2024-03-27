@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\bin\Debug\WFAProje5DengeOyunu.exe.config
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\bin\Debug\WFAProje5DengeOyunu.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\bin\Debug\WFAProje5DengeOyunu.pdb
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\obj\Debug\WFAProje5DengeOyunu.csprojResolveAssemblyReference.cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\obj\Debug\WFAProje5DengeOyunu.Form1.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\obj\Debug\WFAProje5DengeOyunu.Properties.Resources.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\obj\Debug\WFAProje5DengeOyunu.csproj.GenerateResource.Cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\obj\Debug\WFAProje5DengeOyunu.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje5DengeOyunu\WFAProje5DengeOyunu\obj\Debug\WFAProje5DengeOyunu.pdb
