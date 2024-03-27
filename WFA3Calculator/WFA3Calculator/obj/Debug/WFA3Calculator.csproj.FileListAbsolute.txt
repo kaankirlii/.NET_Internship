@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\bin\Debug\WFA3Calculator.exe.config
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\bin\Debug\WFA3Calculator.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\bin\Debug\WFA3Calculator.pdb
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\obj\Debug\WFA3Calculator.csprojResolveAssemblyReference.cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\obj\Debug\WFA3Calculator.Form1.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\obj\Debug\WFA3Calculator.Properties.Resources.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\obj\Debug\WFA3Calculator.csproj.GenerateResource.Cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\obj\Debug\WFA3Calculator.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFA3Calculator\WFA3Calculator\obj\Debug\WFA3Calculator.pdb
