@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\bin\Debug\WFAProje8CheckBoxButonKontrol.exe.config
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\bin\Debug\WFAProje8CheckBoxButonKontrol.exe
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\bin\Debug\WFAProje8CheckBoxButonKontrol.pdb
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\obj\Debug\WFAProje8CheckBoxButonKontrol.Form1.resources
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\obj\Debug\WFAProje8CheckBoxButonKontrol.Properties.Resources.resources
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\obj\Debug\WFAProje8CheckBoxButonKontrol.csproj.GenerateResource.Cache
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\obj\Debug\WFAProje8CheckBoxButonKontrol.exe
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\obj\Debug\WFAProje8CheckBoxButonKontrol.pdb
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje8CheckBoxButonKontrol\WFAProje8CheckBoxButonKontrol\obj\Debug\WFAProje8CheckBoxButonKontrol.csprojResolveAssemblyReference.cache
