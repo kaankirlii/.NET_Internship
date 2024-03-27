@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\bin\Debug\WFAProje7FareButonOyunu.exe.config
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\bin\Debug\WFAProje7FareButonOyunu.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\bin\Debug\WFAProje7FareButonOyunu.pdb
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\obj\Debug\WFAProje7FareButonOyunu.csprojResolveAssemblyReference.cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\obj\Debug\WFAProje7FareButonOyunu.Form1.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\obj\Debug\WFAProje7FareButonOyunu.Properties.Resources.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\obj\Debug\WFAProje7FareButonOyunu.csproj.GenerateResource.Cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\obj\Debug\WFAProje7FareButonOyunu.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje7FareButonOyunu\WFAProje7FareButonOyunu\obj\Debug\WFAProje7FareButonOyunu.pdb
