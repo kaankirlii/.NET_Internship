@@ -1,0 +1,5 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAMessageBox\WFAMessageBox\bin\Debug\WFAMessageBox.exe.config
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAMessageBox\WFAMessageBox\obj\Debug\WFAMessageBox.csprojResolveAssemblyReference.cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAMessageBox\WFAMessageBox\obj\Debug\WFAMessageBox.Form1.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAMessageBox\WFAMessageBox\obj\Debug\WFAMessageBox.Properties.Resources.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAMessageBox\WFAMessageBox\obj\Debug\WFAMessageBox.csproj.GenerateResource.Cache
