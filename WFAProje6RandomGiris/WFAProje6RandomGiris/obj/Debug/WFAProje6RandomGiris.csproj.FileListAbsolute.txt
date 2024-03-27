@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\bin\Debug\WFAProje6RandomGiris.exe.config
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\bin\Debug\WFAProje6RandomGiris.exe
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\bin\Debug\WFAProje6RandomGiris.pdb
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\obj\Debug\WFAProje6RandomGiris.Form1.resources
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\obj\Debug\WFAProje6RandomGiris.Properties.Resources.resources
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\obj\Debug\WFAProje6RandomGiris.csproj.GenerateResource.Cache
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\obj\Debug\WFAProje6RandomGiris.exe
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\obj\Debug\WFAProje6RandomGiris.pdb
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje6RandomGiris\WFAProje6RandomGiris\obj\Debug\WFAProje6RandomGiris.csprojResolveAssemblyReference.cache
