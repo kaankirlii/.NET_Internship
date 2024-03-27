@@ -1,0 +1,8 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\bin\Debug\WFAProje10TryCatchYapisi.exe.config
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\bin\Debug\WFAProje10TryCatchYapisi.exe
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\bin\Debug\WFAProje10TryCatchYapisi.pdb
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\obj\Debug\WFAProje10TryCatchYapisi.Form1.resources
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\obj\Debug\WFAProje10TryCatchYapisi.Properties.Resources.resources
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\obj\Debug\WFAProje10TryCatchYapisi.csproj.GenerateResource.Cache
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\obj\Debug\WFAProje10TryCatchYapisi.exe
+C:\Users\kaan.kirli\Documents\Visual Studio 2015\Projects\WFAProje10TryCatchYapisi\WFAProje10TryCatchYapisi\obj\Debug\WFAProje10TryCatchYapisi.pdb
