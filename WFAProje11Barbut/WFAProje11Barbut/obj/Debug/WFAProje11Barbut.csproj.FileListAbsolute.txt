@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\bin\Debug\WFAProje11Barbut.exe.config
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\bin\Debug\WFAProje11Barbut.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\bin\Debug\WFAProje11Barbut.pdb
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\obj\Debug\WFAProje11Barbut.csprojResolveAssemblyReference.cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\obj\Debug\WFAProje11Barbut.Form1.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\obj\Debug\WFAProje11Barbut.Properties.Resources.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\obj\Debug\WFAProje11Barbut.csproj.GenerateResource.Cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\obj\Debug\WFAProje11Barbut.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje11Barbut\WFAProje11Barbut\obj\Debug\WFAProje11Barbut.pdb
