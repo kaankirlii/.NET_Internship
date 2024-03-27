@@ -1,0 +1,9 @@
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\bin\Debug\WFAProje4.exe.config
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\bin\Debug\WFAProje4.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\bin\Debug\WFAProje4.pdb
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\obj\Debug\WFAProje4.csprojResolveAssemblyReference.cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\obj\Debug\WFAProje4.Form1.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\obj\Debug\WFAProje4.Properties.Resources.resources
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\obj\Debug\WFAProje4.csproj.GenerateResource.Cache
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\obj\Debug\WFAProje4.exe
+c:\users\kaan.kirli\documents\visual studio 2015\Projects\WFAProje4\WFAProje4\obj\Debug\WFAProje4.pdb
